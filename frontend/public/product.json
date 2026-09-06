@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 16",
+    "image": "https://unsplash.com/photos/two-iphones-side-by-side-on-a-gray-background-lDWTfYhZ85w",
+    "price": 79999,
+    "details": [
+      "128GB Storage",
+      "48MP Camera",
+      "A18 Chip",
+      "6.1 inch Display"
+    ],
+    "variants": [
+      {
+        "id": "128gb",
+        "name": "128GB"
+      },
+      {
+        "id": "256gb",
+        "name": "256GB"
+      },
+      {
+        "id": "512gb",
+        "name": "512GB"
+      }
+    ],
+    "emiPlans": [
+      {
+        "id": "iphone-3",
+        "months": 3,
+        "monthlyAmount": 26667,
+        "interest": 0
+      },
+      {
+        "id": "iphone-6",
+        "months": 6,
+        "monthlyAmount": 13333,
+        "interest": 0
+      },
+      {
+        "id": "iphone-12",
+        "months": 12,
+        "monthlyAmount": 6667,
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M4",
+    "image": "/assets/macbook-air.png",
+    "price": 99999,
+    "details": [
+      "13-inch Display",
+      "M4 Chip",
+      "16GB RAM",
+      "256GB SSD"
+    ],
+    "variants": [
+      {
+        "id": "256gb",
+        "name": "256GB"
+      },
+      {
+        "id": "512gb",
+        "name": "512GB"
+      },
+      {
+        "id": "1tb",
+        "name": "1TB"
+      }
+    ],
+    "emiPlans": [
+      {
+        "id": "mac-6",
+        "months": 6,
+        "monthlyAmount": 16667,
+        "interest": 0
+      },
+      {
+        "id": "mac-12",
+        "months": 12,
+        "monthlyAmount": 8333,
+        "interest": 0
+      },
+      {
+        "id": "mac-18",
+        "months": 18,
+        "monthlyAmount": 5556,
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5",
+    "image": "/assets/sony-headphones.png",
+    "price": 29990,
+    "details": [
+      "Noise Cancellation",
+      "30 Hour Battery",
+      "Wireless",
+      "Premium Audio"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "name": "Black"
+      },
+      {
+        "id": "silver",
+        "name": "Silver"
+      }
+    ],
+    "emiPlans": [
+      {
+        "id": "sony-3",
+        "months": 3,
+        "monthlyAmount": 9997,
+        "interest": 0
+      },
+      {
+        "id": "sony-6",
+        "months": 6,
+        "monthlyAmount": 4998,
+        "interest": 0
+      }
+    ]
+  }
+]
