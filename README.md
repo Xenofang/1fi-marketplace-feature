@@ -2,10 +2,6 @@
 
 A responsive marketplace feature built for the 1Fi application. The feature allows users to browse available products, search products, select product variants, choose an EMI plan, and proceed to payment.
 
-## 🔗 Live Demo
-
-**Live URL:** [Add Live URL Here](#)
-
 ---
 
 ## 📌 Features
