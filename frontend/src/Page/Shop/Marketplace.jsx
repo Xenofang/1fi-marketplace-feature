@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { ShoppingBag, Check, CreditCard, ChevronRight } from "lucide-react";
 
 import { getProducts } from "../../services/ProductApi";
-import PaymentPage from "../payment";
+import PaymentPage from "../../Components/Payment";
 
 function Marketplace({ search = "" }) {
   const [showPayment, setShowPayment] = useState(false);
