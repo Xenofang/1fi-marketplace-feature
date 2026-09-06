@@ -10,13 +10,13 @@ function BottomNavbar() {
       id: "home",
       label: "Home",
       icon: Home,
-      path: "/",
+      path: "/home",
     },
     {
       id: "shop",
       label: "Shop",
       icon: Store,
-      path: "/shop",
+      path: "/",
     },
     {
       id: "emi",
